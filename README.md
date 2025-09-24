@@ -12,6 +12,12 @@ Learn Python 101 & 102 basics with examples from [Satr.codes](https://satr.codes
 ---
 
 ### 🚀 Run the Code
+
+Open VS Code or PyCharm.
+
+Make sure your IDE has a terminal (in VS Code, press Ctrl + ~ on Windows or Cmd + ~ on Mac).
+
+
 1. Clone the repo:  
    ```bash
    git clone https://github.com/Meshal1k/Python-101-102-.git
