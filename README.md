@@ -14,7 +14,7 @@ Learn Python 101 & 102 basics with examples from [Satr.codes](https://satr.codes
 ### 🚀 Run the Code
 1. Clone the repo:  
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Meshal1k/Python-101-102-.git
 
 ## About
 This repository contains Python code snippets for self-learning. The goal is to help beginners practice Python fundamentals step by step.
