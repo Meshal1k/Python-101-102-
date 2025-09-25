@@ -1,7 +1,7 @@
 # Welcome to Meshal's Python Course
 **Self Learning | Only Code**
 
-Learn Python 101 & 102 basics with examples from [Satr.codes](https://satr.codes).
+Learn Python 101 & 102 (103 Coming SOON) basics with examples from [Satr.codes](https://satr.codes).
 
 ---
 
